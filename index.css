@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: lightseagreen;
+}
+h2{
+    background-color: red
+    
+}
+
+.home-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: #0a0001;
+    color: #F94F6D
+    
+}
+
